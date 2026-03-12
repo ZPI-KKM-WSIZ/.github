@@ -7,6 +7,8 @@ The system is composed of five repositories working in concert: embedded firmwar
 Arduino hardware, a shared contracts library, a Cassandra database layer, a stateless FastAPI
 backend cluster, and a Node.js/Express frontend.
 
+Website is currently available at: https://www.3492357.xyz/
+
 ---
 
 ## System Overview
